@@ -31,7 +31,7 @@ Once you have the module added to your west.yml you can then build firmware as i
 ## Default Keymap
 The default keymap is provided in the module. It is based on the default hummingbird keymap. Here is a visual guide using caksoylar's great [keymap-drawer](https://keymap-drawer.streamlit.app).
 
-![Default Phantom Keymap](https://raw.githubusercontent.com/jonnyirwin/zmk-keyboards-phantom/blob/main/img/default_keymap.svg)
+![Default Phantom Keymap](https://raw.githubusercontent.com/jonnyirwin/zmk-keyboards-phantom/refs/heads/main/img/default._keymap.svg)
 
 This README (and how to make the actual module) has been based on the [ʻākohekohe ZMK module](https://github.com/grassfedreeve/zmk-keyboards-akohekohe
 ) by grassfedreeve.
